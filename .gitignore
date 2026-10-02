@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Application secrets
+src/main/resources/application.properties
+
+# Uploaded images
+uploads/
+
+# Build output
+target/
